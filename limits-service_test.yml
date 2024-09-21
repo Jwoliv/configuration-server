@@ -1,0 +1,4 @@
+limits-service:
+  min: 40
+  max: 200
+  profile: test-profile

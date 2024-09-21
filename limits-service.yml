@@ -1,3 +1,4 @@
 limits-service:
   min: 20
   max: 100
+  profile: default-profile
