@@ -1,0 +1,15 @@
+sys-opt:
+  env: dev
+  currencies:
+  - from: USD
+    to: CHF
+    exchange_rate: 2
+  - from: EUR
+    to: USD
+    exchange_rate: 1.1
+  - from: GBP
+    to: JPY
+    exchange_rate: 150.5
+  - from: AUD
+    to: CAD
+    exchange_rate: 0.93
